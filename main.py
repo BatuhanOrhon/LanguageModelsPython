@@ -12,9 +12,10 @@ def read_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
-def count_sentences(text):
-    """Counts the number of sentences ending with '.', '!', or '?'."""
-    return len(re.findall(r'[.!?]', text))
+def count_sentences(tokens):
+    """Counts the number of sentences ending with '.', '!', or '?'. By checking </s> tokens."""
+    return tokens.count('</s>')
+    
 
 def tokenize_and_tag_sentences(text):
     """Tokenizes the text, adds <s> and </s> to mark sentence boundaries."""
@@ -134,9 +135,9 @@ def write_results_to_file(file_path, num_sentences, corpus_size, vocab_size,
 def main():
     text = read_file(input("Enter the file path: "))
 
-    num_sentences = count_sentences(text)
-
     tokens = tokenize_and_tag_sentences(text)
+
+    num_sentences = count_sentences(tokens)
 
     unigram_counts, unigram_probs, corpus_size = compute_unigrams(tokens)
     bigram_counts, bigram_probs = compute_bigrams(tokens, unigram_counts)
