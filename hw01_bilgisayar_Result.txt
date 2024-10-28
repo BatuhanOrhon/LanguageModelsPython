@@ -1,0 +1,643 @@
+Number of Sentences in File: 21
+Number of Total Tokens (Corpus Size): 335
+Number of Unique Words (Vocabulary Size): 220
+
+
+Unigrams Sorted wrt Frequencies (from Higher to Lower Frequencies):
+<s>    19  0.056716417910447764
+</s>    19  0.056716417910447764
+,    15  0.04477611940298507
+bir    11  0.03283582089552239
+bilgisayar    10  0.029850746268656716
+ve    10  0.029850746268656716
+çok    6  0.01791044776119403
+bilgisayarın    4  0.011940298507462687
+bu    4  0.011940298507462687
+olarak    3  0.008955223880597015
+yerine    3  0.008955223880597015
+sistemi    3  0.008955223880597015
+bilgisayarlar    3  0.008955223880597015
+küçük    3  0.008955223880597015
+1969    2  0.005970149253731343
+[    2  0.005970149253731343
+]    2  0.005970149253731343
+ise    2  0.005970149253731343
+günümüz    2  0.005970149253731343
+bilgisayarları    2  0.005970149253731343
+görevleri    2  0.005970149253731343
+işletim    2  0.005970149253731343
+için    2  0.005970149253731343
+olan    2  0.005970149253731343
+ana    2  0.005970149253731343
+yüzyılın    2  0.005970149253731343
+ilk    2  0.005970149253731343
+ile    2  0.005970149253731343
+kadar    2  0.005970149253731343
+temel    2  0.005970149253731343
+kendisine    1  0.0029850746268656717
+programlama    1  0.0029850746268656717
+yoluyla    1  0.0029850746268656717
+komuta    1  0.0029850746268656717
+edilmiş    1  0.0029850746268656717
+dizi    1  0.0029850746268656717
+aritmetik    1  0.0029850746268656717
+ya    1  0.0029850746268656717
+da    1  0.0029850746268656717
+mantık    1  0.0029850746268656717
+işlemini    1  0.0029850746268656717
+otomatik    1  0.0029850746268656717
+yapabilen    1  0.0029850746268656717
+makinedir    1  0.0029850746268656717
+sözcüğünün    1  0.0029850746268656717
+aydın    1  0.0029850746268656717
+köksal    1  0.0029850746268656717
+tarafından    1  0.0029850746268656717
+türetildiği    1  0.0029850746268656717
+yılından    1  0.0029850746268656717
+beri    1  0.0029850746268656717
+türkçede    1  0.0029850746268656717
+kullanıldığı    1  0.0029850746268656717
+belirtilmektedir    1  0.0029850746268656717
+1    1  0.0029850746268656717
+eş    1  0.0029850746268656717
+anlamlısı    1  0.0029850746268656717
+kompüter    1  0.0029850746268656717
+sözcüğüdür    1  0.0029850746268656717
+2    1  0.0029850746268656717
+program    1  0.0029850746268656717
+adı    1  0.0029850746268656717
+verilen    1  0.0029850746268656717
+genelleştirilmiş    1  0.0029850746268656717
+işlem    1  0.0029850746268656717
+kümelerini    1  0.0029850746268656717
+izleme    1  0.0029850746268656717
+yeteneğine    1  0.0029850746268656717
+sahiptir    1  0.0029850746268656717
+programlar    1  0.0029850746268656717
+bilgisayarların    1  0.0029850746268656717
+çeşitli    1  0.0029850746268656717
+getirmesini    1  0.0029850746268656717
+sağlar    1  0.0029850746268656717
+``    1  0.0029850746268656717
+tam    1  0.0029850746268656717
+''    1  0.0029850746268656717
+gerekli    1  0.0029850746268656717
+kullanılan    1  0.0029850746268656717
+donanım    1  0.0029850746268656717
+(    1  0.0029850746268656717
+yazılım    1  0.0029850746268656717
+)    1  0.0029850746268656717
+çevresel    1  0.0029850746268656717
+ekipmanı    1  0.0029850746268656717
+içeren    1  0.0029850746268656717
+eksiksiz    1  0.0029850746268656717
+adlandırılabilir    1  0.0029850746268656717
+terim    1  0.0029850746268656717
+birbirine    1  0.0029850746268656717
+bağlı    1  0.0029850746268656717
+birlikte    1  0.0029850746268656717
+çalışan    1  0.0029850746268656717
+grup    1  0.0029850746268656717
+özellikle    1  0.0029850746268656717
+ağı    1  0.0029850746268656717
+veya    1  0.0029850746268656717
+kümesi    1  0.0029850746268656717
+de    1  0.0029850746268656717
+kullanılabilir    1  0.0029850746268656717
+i̇lk    1  0.0029850746268656717
+elektrikli    1  0.0029850746268656717
+eniac'tır    1  0.0029850746268656717
+tarih    1  0.0029850746268656717
+boyunca    1  0.0029850746268656717
+farklı    1  0.0029850746268656717
+biçimlerde    1  0.0029850746268656717
+karşımıza    1  0.0029850746268656717
+çıkmışlardır    1  0.0029850746268656717
+20.    1  0.0029850746268656717
+ortalarındaki    1  0.0029850746268656717
+büyük    1  0.0029850746268656717
+oda    1  0.0029850746268656717
+büyüklüğünde    1  0.0029850746268656717
+olup    1  0.0029850746268656717
+bilgisayarlarından    1  0.0029850746268656717
+yüzlerce    1  0.0029850746268656717
+kat    1  0.0029850746268656717
+daha    1  0.0029850746268656717
+fazla    1  0.0029850746268656717
+güç    1  0.0029850746268656717
+tüketiyorlardı    1  0.0029850746268656717
+21.    1  0.0029850746268656717
+başına    1  0.0029850746268656717
+varıldığında    1  0.0029850746268656717
+kol    1  0.0029850746268656717
+saatine    1  0.0029850746268656717
+sığacak    1  0.0029850746268656717
+pil    1  0.0029850746268656717
+çalışacak    1  0.0029850746268656717
+duruma    1  0.0029850746268656717
+geldiler    1  0.0029850746268656717
+imal    1  0.0029850746268656717
+edilebilmelerinin    1  0.0029850746268656717
+nedeni    1  0.0029850746268656717
+yılında    1  0.0029850746268656717
+yarı    1  0.0029850746268656717
+iletkenler    1  0.0029850746268656717
+alanlara    1  0.0029850746268656717
+sığdırılabilen    1  0.0029850746268656717
+devreler    1  0.0029850746268656717
+yapılabilmesidir    1  0.0029850746268656717
+intel'in    1  0.0029850746268656717
+işlemci    1  0.0029850746268656717
+unvanına    1  0.0029850746268656717
+sahip    1  0.0029850746268656717
+4004'ten    1  0.0029850746268656717
+sonra    1  0.0029850746268656717
+teknolojisi    1  0.0029850746268656717
+hız    1  0.0029850746268656717
+kazanmıştır    1  0.0029850746268656717
+toplumumuz    1  0.0029850746268656717
+kişisel    1  0.0029850746268656717
+bilgisayarı    1  0.0029850746268656717
+onun    1  0.0029850746268656717
+taşınabilir    1  0.0029850746268656717
+eşdeğeri    1  0.0029850746268656717
+dizüstü    1  0.0029850746268656717
+bilgisayarını    1  0.0029850746268656717
+bilgi    1  0.0029850746268656717
+çağının    1  0.0029850746268656717
+simgeleri    1  0.0029850746268656717
+tanıdılar    1  0.0029850746268656717
+kavramıyla    1  0.0029850746268656717
+özdeşleştirdiler    1  0.0029850746268656717
+günümüzde    1  0.0029850746268656717
+yaygın    1  0.0029850746268656717
+kullanılmaktadırlar    1  0.0029850746268656717
+çalışma    1  0.0029850746268656717
+prensibi    1  0.0029850746268656717
+ikili    1  0.0029850746268656717
+sayı    1  0.0029850746268656717
+yani    1  0.0029850746268656717
+sadece    1  0.0029850746268656717
+0    1  0.0029850746268656717
+1'den    1  0.0029850746268656717
+oluşan    1  0.0029850746268656717
+kodlamalardır    1  0.0029850746268656717
+i̇stenilen    1  0.0029850746268656717
+yazılımı    1  0.0029850746268656717
+kayıt    1  0.0029850746268656717
+edip    1  0.0029850746268656717
+istenilen    1  0.0029850746268656717
+zamanda    1  0.0029850746268656717
+çalıştırabilmeleri    1  0.0029850746268656717
+yönlü    1  0.0029850746268656717
+kılıp    1  0.0029850746268656717
+hesap    1  0.0029850746268656717
+makinelerinden    1  0.0029850746268656717
+ayıran    1  0.0029850746268656717
+özellikleridir    1  0.0029850746268656717
+church-turing    1  0.0029850746268656717
+tezi    1  0.0029850746268656717
+yönlülüğün    1  0.0029850746268656717
+matematiksel    1  0.0029850746268656717
+ifadesidir    1  0.0029850746268656717
+herhangi    1  0.0029850746268656717
+diğer    1  0.0029850746268656717
+görevlerini    1  0.0029850746268656717
+getirebileceğinin    1  0.0029850746268656717
+altını    1  0.0029850746268656717
+çizer    1  0.0029850746268656717
+dolayısıyla    1  0.0029850746268656717
+karmaşıklıkları    1  0.0029850746268656717
+ne    1  0.0029850746268656717
+düzeyde    1  0.0029850746268656717
+olursa    1  0.0029850746268656717
+olsun    1  0.0029850746268656717
+cep    1  0.0029850746268656717
+bilgisayarından    1  0.0029850746268656717
+süper    1  0.0029850746268656717
+bilgisayarlara    1  0.0029850746268656717
+bellek    1  0.0029850746268656717
+zaman    1  0.0029850746268656717
+sınırı    1  0.0029850746268656717
+olmadığı    1  0.0029850746268656717
+takdirde    1  0.0029850746268656717
+hepsi    1  0.0029850746268656717
+aynı    1  0.0029850746268656717
+getirebilir    1  0.0029850746268656717
+
+Bigrams Sorted wrt Frequencies (from Higher to Lower Frequencies):
+('</s>', '<s>')    18  0.9473684210526315
+('bilgisayar', ',')    3  0.3
+('<s>', 'bu')    3  0.15789473684210525
+('bir', 'bilgisayar')    3  0.2727272727272727
+('<s>', 'bilgisayar')    2  0.10526315789473684
+('<s>', '[')    2  0.10526315789473684
+('görevleri', 'yerine')    2  1.0
+(',', 'kendisine')    1  0.06666666666666667
+('kendisine', 'programlama')    1  1.0
+('programlama', 'yoluyla')    1  1.0
+('yoluyla', 'komuta')    1  1.0
+('komuta', 'edilmiş')    1  1.0
+('edilmiş', 'bir')    1  1.0
+('bir', 'dizi')    1  0.09090909090909091
+('dizi', 'aritmetik')    1  1.0
+('aritmetik', 'ya')    1  1.0
+('ya', 'da')    1  1.0
+('da', 'mantık')    1  1.0
+('mantık', 'işlemini')    1  1.0
+('işlemini', 'otomatik')    1  1.0
+('otomatik', 'olarak')    1  1.0
+('olarak', 'yapabilen')    1  0.3333333333333333
+('yapabilen', 'bir')    1  1.0
+('bir', 'makinedir')    1  0.09090909090909091
+('makinedir', '</s>')    1  1.0
+('bilgisayar', 'sözcüğünün')    1  0.1
+('sözcüğünün', 'aydın')    1  1.0
+('aydın', 'köksal')    1  1.0
+('köksal', 'tarafından')    1  1.0
+('tarafından', 'türetildiği')    1  1.0
+('türetildiği', 've')    1  1.0
+('ve', '1969')    1  0.1
+('1969', 'yılından')    1  0.5
+('yılından', 'beri')    1  1.0
+('beri', 'türkçede')    1  1.0
+('türkçede', 'kullanıldığı')    1  1.0
+('kullanıldığı', 'belirtilmektedir')    1  1.0
+('belirtilmektedir', '</s>')    1  1.0
+('[', '1')    1  0.5
+('1', ']')    1  1.0
+(']', 'bilgisayarın')    1  0.5
+('bilgisayarın', 'eş')    1  0.25
+('eş', 'anlamlısı')    1  1.0
+('anlamlısı', 'ise')    1  1.0
+('ise', 'kompüter')    1  0.5
+('kompüter', 'sözcüğüdür')    1  1.0
+('sözcüğüdür', '</s>')    1  1.0
+('[', '2')    1  0.5
+('2', ']')    1  1.0
+(']', 'günümüz')    1  0.5
+('günümüz', 'bilgisayarları')    1  0.5
+('bilgisayarları', ',')    1  0.5
+(',', 'program')    1  0.06666666666666667
+('program', 'adı')    1  1.0
+('adı', 'verilen')    1  1.0
+('verilen', 'genelleştirilmiş')    1  1.0
+('genelleştirilmiş', 'işlem')    1  1.0
+('işlem', 'kümelerini')    1  1.0
+('kümelerini', 'izleme')    1  1.0
+('izleme', 'yeteneğine')    1  1.0
+('yeteneğine', 'sahiptir')    1  1.0
+('sahiptir', '</s>')    1  1.0
+('bu', 'programlar')    1  0.25
+('programlar', ',')    1  1.0
+(',', 'bilgisayarların')    1  0.06666666666666667
+('bilgisayarların', 'çok')    1  1.0
+('çok', 'çeşitli')    1  0.16666666666666666
+('çeşitli', 'görevleri')    1  1.0
+('yerine', 'getirmesini')    1  0.3333333333333333
+('getirmesini', 'sağlar')    1  1.0
+('sağlar', '</s>')    1  1.0
+('<s>', '``')    1  0.05263157894736842
+('``', 'tam')    1  1.0
+('tam', "''")    1  1.0
+("''", 'işletim')    1  1.0
+('işletim', 'için')    1  0.5
+('için', 'gerekli')    1  0.5
+('gerekli', 'olan')    1  1.0
+('olan', 've')    1  0.5
+('ve', 'kullanılan')    1  0.1
+('kullanılan', 'donanım')    1  1.0
+('donanım', ',')    1  1.0
+(',', 'işletim')    1  0.06666666666666667
+('işletim', 'sistemi')    1  0.5
+('sistemi', '(')    1  0.3333333333333333
+('(', 'ana')    1  1.0
+('ana', 'yazılım')    1  0.5
+('yazılım', ')')    1  1.0
+(')', 've')    1  1.0
+('ve', 'çevresel')    1  0.1
+('çevresel', 'ekipmanı')    1  1.0
+('ekipmanı', 'içeren')    1  1.0
+('içeren', 'eksiksiz')    1  1.0
+('eksiksiz', 'bir')    1  1.0
+(',', 'bir')    1  0.06666666666666667
+('bilgisayar', 'sistemi')    1  0.1
+('sistemi', 'olarak')    1  0.3333333333333333
+('olarak', 'adlandırılabilir')    1  0.3333333333333333
+('adlandırılabilir', '</s>')    1  1.0
+('bu', 'terim')    1  0.25
+('terim', ',')    1  1.0
+(',', 'birbirine')    1  0.06666666666666667
+('birbirine', 'bağlı')    1  1.0
+('bağlı', 've')    1  1.0
+('ve', 'birlikte')    1  0.1
+('birlikte', 'çalışan')    1  1.0
+('çalışan', 'bir')    1  1.0
+('bir', 'grup')    1  0.09090909090909091
+('grup', 'bilgisayar')    1  1.0
+(',', 'özellikle')    1  0.06666666666666667
+('özellikle', 'bir')    1  1.0
+('bilgisayar', 'ağı')    1  0.1
+('ağı', 'veya')    1  1.0
+('veya', 'bilgisayar')    1  1.0
+('bilgisayar', 'kümesi')    1  0.1
+('kümesi', 'için')    1  1.0
+('için', 'de')    1  0.5
+('de', 'kullanılabilir')    1  1.0
+('kullanılabilir', '</s>')    1  1.0
+('<s>', 'i̇lk')    1  0.05263157894736842
+('i̇lk', 'elektrikli')    1  1.0
+('elektrikli', 'bilgisayar')    1  1.0
+('bilgisayar', "eniac'tır")    1  0.1
+("eniac'tır", '</s>')    1  1.0
+('<s>', 'bilgisayarlar')    1  0.05263157894736842
+('bilgisayarlar', ',')    1  0.3333333333333333
+(',', 'tarih')    1  0.06666666666666667
+('tarih', 'boyunca')    1  1.0
+('boyunca', ',')    1  1.0
+(',', 'çok')    1  0.06666666666666667
+('çok', 'farklı')    1  0.16666666666666666
+('farklı', 'biçimlerde')    1  1.0
+('biçimlerde', 'karşımıza')    1  1.0
+('karşımıza', 'çıkmışlardır')    1  1.0
+('çıkmışlardır', '</s>')    1  1.0
+('<s>', '20.')    1  0.05263157894736842
+('20.', 'yüzyılın')    1  1.0
+('yüzyılın', 'ortalarındaki')    1  0.5
+('ortalarındaki', 'ilk')    1  1.0
+('ilk', 'bilgisayarlar')    1  0.5
+('bilgisayarlar', 'büyük')    1  0.3333333333333333
+('büyük', 'bir')    1  1.0
+('bir', 'oda')    1  0.09090909090909091
+('oda', 'büyüklüğünde')    1  1.0
+('büyüklüğünde', 'olup')    1  1.0
+('olup', ',')    1  1.0
+(',', 'günümüz')    1  0.06666666666666667
+('günümüz', 'bilgisayarlarından')    1  0.5
+('bilgisayarlarından', 'yüzlerce')    1  1.0
+('yüzlerce', 'kat')    1  1.0
+('kat', 'daha')    1  1.0
+('daha', 'fazla')    1  1.0
+('fazla', 'güç')    1  1.0
+('güç', 'tüketiyorlardı')    1  1.0
+('tüketiyorlardı', '</s>')    1  1.0
+('<s>', '21.')    1  0.05263157894736842
+('21.', 'yüzyılın')    1  1.0
+('yüzyılın', 'başına')    1  0.5
+('başına', 'varıldığında')    1  1.0
+('varıldığında', 'ise')    1  1.0
+('ise', 'bilgisayarlar')    1  0.5
+('bilgisayarlar', 'bir')    1  0.3333333333333333
+('bir', 'kol')    1  0.09090909090909091
+('kol', 'saatine')    1  1.0
+('saatine', 'sığacak')    1  1.0
+('sığacak', 've')    1  1.0
+('ve', 'küçük')    1  0.1
+('küçük', 'bir')    1  0.3333333333333333
+('bir', 'pil')    1  0.09090909090909091
+('pil', 'ile')    1  1.0
+('ile', 'çalışacak')    1  0.5
+('çalışacak', 'duruma')    1  1.0
+('duruma', 'geldiler')    1  1.0
+('geldiler', '</s>')    1  1.0
+('bu', 'kadar')    1  0.25
+('kadar', 'küçük')    1  0.5
+('küçük', 'imal')    1  0.3333333333333333
+('imal', 'edilebilmelerinin')    1  1.0
+('edilebilmelerinin', 'temel')    1  1.0
+('temel', 'nedeni')    1  0.5
+('nedeni', '1969')    1  1.0
+('1969', 'yılında')    1  0.5
+('yılında', 'yarı')    1  1.0
+('yarı', 'iletkenler')    1  1.0
+('iletkenler', 'ile')    1  1.0
+('ile', 'çok')    1  0.5
+('çok', 'küçük')    1  0.16666666666666666
+('küçük', 'alanlara')    1  0.3333333333333333
+('alanlara', 'sığdırılabilen')    1  1.0
+('sığdırılabilen', 'devreler')    1  1.0
+('devreler', 'yapılabilmesidir')    1  1.0
+('yapılabilmesidir', '</s>')    1  1.0
+('<s>', "intel'in")    1  0.05263157894736842
+("intel'in", 'ilk')    1  1.0
+('ilk', 'işlemci')    1  0.5
+('işlemci', 'unvanına')    1  1.0
+('unvanına', 'sahip')    1  1.0
+('sahip', 'olan')    1  1.0
+('olan', "4004'ten")    1  0.5
+("4004'ten", 'sonra')    1  1.0
+('sonra', 'bilgisayar')    1  1.0
+('bilgisayar', 'teknolojisi')    1  0.1
+('teknolojisi', 'hız')    1  1.0
+('hız', 'kazanmıştır')    1  1.0
+('kazanmıştır', '</s>')    1  1.0
+('<s>', 'toplumumuz')    1  0.05263157894736842
+('toplumumuz', 'kişisel')    1  1.0
+('kişisel', 'bilgisayarı')    1  1.0
+('bilgisayarı', 've')    1  1.0
+('ve', 'onun')    1  0.1
+('onun', 'taşınabilir')    1  1.0
+('taşınabilir', 'eşdeğeri')    1  1.0
+('eşdeğeri', ',')    1  1.0
+(',', 'dizüstü')    1  0.06666666666666667
+('dizüstü', 'bilgisayarını')    1  1.0
+('bilgisayarını', ',')    1  1.0
+(',', 'bilgi')    1  0.06666666666666667
+('bilgi', 'çağının')    1  1.0
+('çağının', 'simgeleri')    1  1.0
+('simgeleri', 'olarak')    1  1.0
+('olarak', 'tanıdılar')    1  0.3333333333333333
+('tanıdılar', 've')    1  1.0
+('ve', 'bilgisayar')    1  0.1
+('bilgisayar', 'kavramıyla')    1  0.1
+('kavramıyla', 'özdeşleştirdiler')    1  1.0
+('özdeşleştirdiler', '</s>')    1  1.0
+('<s>', 'günümüzde')    1  0.05263157894736842
+('günümüzde', 'çok')    1  1.0
+('çok', 'yaygın')    1  0.16666666666666666
+('yaygın', 'kullanılmaktadırlar')    1  1.0
+('kullanılmaktadırlar', '</s>')    1  1.0
+('<s>', 'bilgisayarın')    1  0.05263157894736842
+('bilgisayarın', 'temel')    1  0.25
+('temel', 'çalışma')    1  0.5
+('çalışma', 'prensibi')    1  1.0
+('prensibi', 'ikili')    1  1.0
+('ikili', 'sayı')    1  1.0
+('sayı', 'sistemi')    1  1.0
+('sistemi', 'yani')    1  0.3333333333333333
+('yani', 'sadece')    1  1.0
+('sadece', '0')    1  1.0
+('0', 've')    1  1.0
+('ve', "1'den")    1  0.1
+("1'den", 'oluşan')    1  1.0
+('oluşan', 'kodlamalardır')    1  1.0
+('kodlamalardır', '</s>')    1  1.0
+('<s>', 'i̇stenilen')    1  0.05263157894736842
+('i̇stenilen', 'yazılımı')    1  1.0
+('yazılımı', 'kayıt')    1  1.0
+('kayıt', 'edip')    1  1.0
+('edip', 'istenilen')    1  1.0
+('istenilen', 'zamanda')    1  1.0
+('zamanda', 'çalıştırabilmeleri')    1  1.0
+('çalıştırabilmeleri', 'bilgisayarları')    1  1.0
+('bilgisayarları', 'çok')    1  0.5
+('çok', 'yönlü')    1  0.16666666666666666
+('yönlü', 'kılıp')    1  1.0
+('kılıp', 'hesap')    1  1.0
+('hesap', 'makinelerinden')    1  1.0
+('makinelerinden', 'ayıran')    1  1.0
+('ayıran', 'ana')    1  1.0
+('ana', 'özellikleridir')    1  0.5
+('özellikleridir', '</s>')    1  1.0
+('<s>', 'church-turing')    1  0.05263157894736842
+('church-turing', 'tezi')    1  1.0
+('tezi', 'bu')    1  1.0
+('bu', 'çok')    1  0.25
+('çok', 'yönlülüğün')    1  0.16666666666666666
+('yönlülüğün', 'matematiksel')    1  1.0
+('matematiksel', 'ifadesidir')    1  1.0
+('ifadesidir', 've')    1  1.0
+('ve', 'herhangi')    1  0.1
+('herhangi', 'bir')    1  1.0
+('bir', 'bilgisayarın')    1  0.09090909090909091
+('bilgisayarın', 'bir')    1  0.25
+('bir', 'diğer')    1  0.09090909090909091
+('diğer', 'bilgisayarın')    1  1.0
+('bilgisayarın', 'görevlerini')    1  0.25
+('görevlerini', 'yerine')    1  1.0
+('yerine', 'getirebileceğinin')    1  0.3333333333333333
+('getirebileceğinin', 'altını')    1  1.0
+('altını', 'çizer')    1  1.0
+('çizer', '</s>')    1  1.0
+('<s>', 'dolayısıyla')    1  0.05263157894736842
+('dolayısıyla', ',')    1  1.0
+(',', 'karmaşıklıkları')    1  0.06666666666666667
+('karmaşıklıkları', 'ne')    1  1.0
+('ne', 'düzeyde')    1  1.0
+('düzeyde', 'olursa')    1  1.0
+('olursa', 'olsun')    1  1.0
+('olsun', ',')    1  1.0
+(',', 'cep')    1  0.06666666666666667
+('cep', 'bilgisayarından')    1  1.0
+('bilgisayarından', 'süper')    1  1.0
+('süper', 'bilgisayarlara')    1  1.0
+('bilgisayarlara', 'kadar')    1  1.0
+('kadar', ',')    1  0.5
+(',', 'bellek')    1  0.06666666666666667
+('bellek', 've')    1  1.0
+('ve', 'zaman')    1  0.1
+('zaman', 'sınırı')    1  1.0
+('sınırı', 'olmadığı')    1  1.0
+('olmadığı', 'takdirde')    1  1.0
+('takdirde', 'hepsi')    1  1.0
+('hepsi', 'aynı')    1  1.0
+('aynı', 'görevleri')    1  1.0
+('yerine', 'getirebilir')    1  0.3333333333333333
+('getirebilir', '</s>')    1  1.0
+
+After UNK addition and Smoothing Operations,
+Top 100 Bigrams wrt SmoothedProbability (from Higher to Lower):
+(</s>, <s>)    0.1434108527131783  0.9473684210526315
+(bilgisayar, ,)    0.029166666666666667  0.3
+(bir, bilgisayar)    0.028925619834710745  0.2727272727272727
+(<s>, bu)    0.027131782945736434  0.15789473684210525
+(görevleri, yerine)    0.022321428571428572  1.0
+(<s>, bilgisayar)    0.01937984496124031  0.10526315789473684
+(<s>, [)    0.01937984496124031  0.10526315789473684
+(UNK, programlama)    0.013513513513513514  1.0
+(programlama, yoluyla)    0.013513513513513514  1.0
+(yoluyla, komuta)    0.013513513513513514  1.0
+(komuta, edilmiş)    0.013513513513513514  1.0
+(edilmiş, bir)    0.013513513513513514  1.0
+(dizi, aritmetik)    0.013513513513513514  1.0
+(aritmetik, ya)    0.013513513513513514  1.0
+(ya, da)    0.013513513513513514  1.0
+(da, mantık)    0.013513513513513514  1.0
+(mantık, işlemini)    0.013513513513513514  1.0
+(işlemini, otomatik)    0.013513513513513514  1.0
+(otomatik, olarak)    0.013513513513513514  1.0
+(yapabilen, bir)    0.013513513513513514  1.0
+(makinedir, </s>)    0.013513513513513514  1.0
+(sözcüğünün, aydın)    0.013513513513513514  1.0
+(aydın, köksal)    0.013513513513513514  1.0
+(köksal, tarafından)    0.013513513513513514  1.0
+(tarafından, türetildiği)    0.013513513513513514  1.0
+(türetildiği, ve)    0.013513513513513514  1.0
+(yılından, beri)    0.013513513513513514  1.0
+(beri, türkçede)    0.013513513513513514  1.0
+(türkçede, kullanıldığı)    0.013513513513513514  1.0
+(kullanıldığı, belirtilmektedir)    0.013513513513513514  1.0
+(belirtilmektedir, </s>)    0.013513513513513514  1.0
+(1, ])    0.013513513513513514  1.0
+(eş, anlamlısı)    0.013513513513513514  1.0
+(anlamlısı, ise)    0.013513513513513514  1.0
+(kompüter, sözcüğüdür)    0.013513513513513514  1.0
+(sözcüğüdür, </s>)    0.013513513513513514  1.0
+(2, ])    0.013513513513513514  1.0
+(program, adı)    0.013513513513513514  1.0
+(adı, verilen)    0.013513513513513514  1.0
+(verilen, genelleştirilmiş)    0.013513513513513514  1.0
+(genelleştirilmiş, işlem)    0.013513513513513514  1.0
+(işlem, kümelerini)    0.013513513513513514  1.0
+(kümelerini, izleme)    0.013513513513513514  1.0
+(izleme, yeteneğine)    0.013513513513513514  1.0
+(yeteneğine, sahiptir)    0.013513513513513514  1.0
+(sahiptir, </s>)    0.013513513513513514  1.0
+(programlar, ,)    0.013513513513513514  1.0
+(bilgisayarların, çok)    0.013513513513513514  1.0
+(çeşitli, görevleri)    0.013513513513513514  1.0
+(getirmesini, sağlar)    0.013513513513513514  1.0
+(sağlar, </s>)    0.013513513513513514  1.0
+(``, tam)    0.013513513513513514  1.0
+(tam, '')    0.013513513513513514  1.0
+('', işletim)    0.013513513513513514  1.0
+(gerekli, olan)    0.013513513513513514  1.0
+(kullanılan, donanım)    0.013513513513513514  1.0
+(donanım, ,)    0.013513513513513514  1.0
+((, ana)    0.013513513513513514  1.0
+(yazılım, ))    0.013513513513513514  1.0
+(), ve)    0.013513513513513514  1.0
+(çevresel, ekipmanı)    0.013513513513513514  1.0
+(ekipmanı, içeren)    0.013513513513513514  1.0
+(içeren, eksiksiz)    0.013513513513513514  1.0
+(eksiksiz, bir)    0.013513513513513514  1.0
+(adlandırılabilir, </s>)    0.013513513513513514  1.0
+(terim, ,)    0.013513513513513514  1.0
+(birbirine, bağlı)    0.013513513513513514  1.0
+(bağlı, ve)    0.013513513513513514  1.0
+(birlikte, çalışan)    0.013513513513513514  1.0
+(çalışan, bir)    0.013513513513513514  1.0
+(grup, bilgisayar)    0.013513513513513514  1.0
+(özellikle, bir)    0.013513513513513514  1.0
+(ağı, veya)    0.013513513513513514  1.0
+(veya, bilgisayar)    0.013513513513513514  1.0
+(kümesi, için)    0.013513513513513514  1.0
+(de, kullanılabilir)    0.013513513513513514  1.0
+(kullanılabilir, </s>)    0.013513513513513514  1.0
+(i̇lk, elektrikli)    0.013513513513513514  1.0
+(elektrikli, bilgisayar)    0.013513513513513514  1.0
+(eniac'tır, </s>)    0.013513513513513514  1.0
+(tarih, boyunca)    0.013513513513513514  1.0
+(boyunca, ,)    0.013513513513513514  1.0
+(farklı, biçimlerde)    0.013513513513513514  1.0
+(biçimlerde, karşımıza)    0.013513513513513514  1.0
+(karşımıza, çıkmışlardır)    0.013513513513513514  1.0
+(çıkmışlardır, </s>)    0.013513513513513514  1.0
+(20., yüzyılın)    0.013513513513513514  1.0
+(ortalarındaki, ilk)    0.013513513513513514  1.0
+(büyük, bir)    0.013513513513513514  1.0
+(oda, büyüklüğünde)    0.013513513513513514  1.0
+(büyüklüğünde, olup)    0.013513513513513514  1.0
+(olup, ,)    0.013513513513513514  1.0
+(bilgisayarlarından, yüzlerce)    0.013513513513513514  1.0
+(yüzlerce, kat)    0.013513513513513514  1.0
+(kat, daha)    0.013513513513513514  1.0
+(daha, fazla)    0.013513513513513514  1.0
+(fazla, güç)    0.013513513513513514  1.0
+(güç, tüketiyorlardı)    0.013513513513513514  1.0
+(tüketiyorlardı, </s>)    0.013513513513513514  1.0
+(21., yüzyılın)    0.013513513513513514  1.0
+
+Sentence Probabilities:
+Batuhan'ın bilgisayar sistemi çok kullanışlı.  1.8749424162885257e-14
+Günümüz bilgisayarları, program adı verilen genelleştirilmiş işlem kümelerini izleme yeteneğine sahiptir.  1.2537834570535049e-25

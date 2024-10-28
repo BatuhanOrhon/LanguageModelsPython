@@ -1,0 +1,64 @@
+Number of Sentences in File: 6
+Number of Total Tokens (Corpus Size): 32
+Number of Unique Words (Vocabulary Size): 11
+
+
+Unigrams Sorted wrt Frequencies (from Higher to Lower Frequencies):
+<s>    6  0.1875
+</s>    6  0.1875
+eve    4  0.125
+o    3  0.09375
+geldi    3  0.09375
+gitti    3  0.09375
+ali    2  0.0625
+okula    2  0.0625
+dün    1  0.03125
+ve    1  0.03125
+mehmet    1  0.03125
+
+Bigrams Sorted wrt Frequencies (from Higher to Lower Frequencies):
+('</s>', '<s>')    5  0.8333333333333334
+('geldi', '</s>')    3  1.0
+('gitti', '</s>')    3  1.0
+('<s>', 'o')    2  0.3333333333333333
+('eve', 'geldi')    2  0.5
+('<s>', 'eve')    2  0.3333333333333333
+('<s>', 'ali')    2  0.3333333333333333
+('o', 'dün')    1  0.3333333333333333
+('dün', 'eve')    1  1.0
+('o', 'eve')    1  0.3333333333333333
+('eve', 'gitti')    1  0.25
+('eve', 'o')    1  0.25
+('o', 'gitti')    1  0.3333333333333333
+('ali', 'okula')    1  0.5
+('okula', 'gitti')    1  0.5
+('ali', 've')    1  0.5
+('ve', 'mehmet')    1  1.0
+('mehmet', 'okula')    1  1.0
+('okula', 'geldi')    1  0.5
+
+After UNK addition and Smoothing Operations,
+Top 100 Bigrams wrt SmoothedProbability (from Higher to Lower):
+(</s>, <s>)    0.4782608695652174  0.8333333333333334
+(geldi, </s>)    0.4117647058823529  1.0
+(gitti, </s>)    0.4117647058823529  1.0
+(eve, geldi)    0.2631578947368421  0.5
+(UNK, eve)    0.23076923076923078  1.0
+(ve, mehmet)    0.23076923076923078  1.0
+(mehmet, okula)    0.23076923076923078  1.0
+(<s>, o)    0.21739130434782608  0.3333333333333333
+(<s>, eve)    0.21739130434782608  0.3333333333333333
+(<s>, ali)    0.21739130434782608  0.3333333333333333
+(ali, okula)    0.2  0.5
+(okula, gitti)    0.2  0.5
+(ali, ve)    0.2  0.5
+(okula, geldi)    0.2  0.5
+(o, UNK)    0.17647058823529413  0.3333333333333333
+(o, eve)    0.17647058823529413  0.3333333333333333
+(o, gitti)    0.17647058823529413  0.3333333333333333
+(eve, gitti)    0.15789473684210525  0.25
+(eve, o)    0.15789473684210525  0.25
+
+Sentence Probabilities:
+Batuhan okula gitti.  0.00027542789691127286
+Batuhan eve geldi.  0.0010872153825444981
